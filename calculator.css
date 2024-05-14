@@ -1,0 +1,32 @@
+.main {
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 500px;
+    margin-top: 160px;
+    background-color:chartreuse;
+}
+
+#display {
+    color: black;
+    height: 80px;
+    width: 250px;
+    border: 2px solid black;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.buttons {
+    height: 50px;
+    width: 270px;
+    margin-left: auto;
+}
+
+.but {
+    margin: 7px;
+    height: 35px;
+    width: 40px;
+    border-radius: 100%;
+}
